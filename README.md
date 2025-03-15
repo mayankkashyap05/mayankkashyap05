@@ -1,6 +1,9 @@
 # 🚀 Welcome to My GitHub Profile!
 
 ## 👋 Hi, I'm Mayank Kashyap
+
+I write my code through **AI agents** by giving **prompts** — blending technology and creativity to build powerful systems faster than ever. 
+
 I'm passionate about blending **AI, trading algorithms,** and **cutting-edge tech** to create high-performance systems. My current focus is on **reinforcement learning** and **market prediction models**, with a special love for building **powerful trading bots**. 💸✨
 
 ---
@@ -8,11 +11,13 @@ I'm passionate about blending **AI, trading algorithms,** and **cutting-edge tec
 ## 🛠️ Projects I'm Working On
 
 ### 🔥 **MAPPO-TraderX**
-An advanced Multi-Agent PPO (MAPPO) trading bot designed for **Binance Futures**, optimized with **multi-timeframe analysis** and **order flow tracking** for smarter decision-making. 🚀
+
+An advanced Multi-Agent PPO (MAPPO) trading bot, optimized with **multidimentional-timeframe analysis** and **order flow tracking** for smarter decision-making. 🚀
 
 🔹 **Key Features:**
+
 - Reinforcement learning with **MAPPO architecture**
-- Supports **5m, 15m, 30m** multi-timeframe data
+- Supports **multidimentional-timeframe** data
 - Integrated **order flow analysis**
 - Target ROI: **20%-40% per month** 📈
 
@@ -23,6 +28,7 @@ An advanced Multi-Agent PPO (MAPPO) trading bot designed for **Binance Futures**
 ## 🏁 Projects I've Completed
 
 ### 💀 **XmRig-Injector-v1**
+
 A malware project demonstrating advanced code injection techniques using XmRig. This project is for **educational and cybersecurity research purposes only** — use responsibly! 🚨
 
 👉 **[Explore the project here](https://github.com/mayankkashyap05/XmRig-injector-v1)**

@@ -35,6 +35,14 @@ A malware project demonstrating advanced code injection techniques using XmRig. 
 
 ---
 
+### 📁 **File Organizer Batch Script**
+
+A powerful yet lightweight batch script that organizes files by extension, moves files without extensions to a NoExt folder, skips itself, and handles errors like locked or duplicate files — perfect for quick folder cleanup on Windows!
+
+👉 **[Explore the project here](https://github.com/mayankkashyap05/FileOrganizer)**
+
+---
+
 ## 🧠 Tech Stack
 
 - 🐍 Python (Pandas, NumPy, PyTorch, TensorFlow)
